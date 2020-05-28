@@ -1,0 +1,44 @@
+{
+  "id": "1840924",
+  "name": "vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "286209",
+      "name": "导航-首页",
+      "font_class": "daohangshouye",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "425652",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1079490",
+      "name": "理财收益",
+      "font_class": "licaishouyi",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "6460209",
+      "name": "京东众筹",
+      "font_class": "jingdongzhongchou",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "6460246",
+      "name": "白条闪付",
+      "font_class": "baitiaoshanfu",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    }
+  ]
+}
